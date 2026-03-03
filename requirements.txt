@@ -43,4 +43,5 @@ typing_extensions==4.15.0
 tzdata==2025.3
 urllib3==2.6.3
 volcengine==1.0.216
+volcengine-python-sdk[ark]==5.0.13
 watchdog==6.0.0
